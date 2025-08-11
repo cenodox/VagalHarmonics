@@ -1,12 +1,15 @@
-Vagal Harmonics — Founding Document  
+# Vagal Harmonics — Founding Document  
 Founder:  
 Robert Castellanos  
+
 Date of Origin:  
 August 10, 2025  
+
 License:  
 Vagal Harmonics © 2025 Robert Castellanos — Licensed under CC BY-SA 4.0  
 You are free to use, adapt, and share, provided attribution is given and derivatives remain open.  
-Core Definition  
+
+## Core Definition  
 Vagal Harmonics is a copyleft, open-science framework for restoring nervous system health by:  
 1. Reducing harmful electromagnetic field (EMF) exposure in occupations, homes, and 
 schools.  
@@ -15,7 +18,8 @@ Ultrasound (LIPUS) stimulation.
 The system integrates environmental EMF remediation with precise, non-invasive stimulation 
 protocols designed to harmonize vagus nerve function, regulate autonomic balance, and 
 support long-term well-being.  
-Core Principles  
+
+## Core Principles  
 3. EMF Remediation as Primary Health Intervention — Identification, measurement, and 
 removal/reduction of chronic EMF exposure from Wi-Fi, 5G, dirty electricity, and other 
 anthropogenic sources.  
@@ -29,7 +33,8 @@ standards for workplaces and schools to support nervous system health and cognit
 performance.  
 7. Open Scientific Collaboration — All methods, results, and refinements remain openly 
 available for replication, adaptation, and further research.  
-Initial Methods / Applications  
+
+## Initial Methods / Applications  
 8. EMF Environmental Survey — Measuring ambient EMFs in the home, workplace, or 
 school using professional-grade meters, documenting sources, and implementing 
 shielding, grounding, or device removal.  
@@ -39,7 +44,9 @@ activity.
 10. Workplace/School Vagal Recovery Sessions — Implementing daily or weekly 
 sessions in EMF-reduced rooms where LIPUS and harmonic practices are used for 
 stress reduction and autonomic reset.  
-Statement of Intent  
+
+## Statement of Intent  
+
 Vagal Harmonics is released under a copyleft framework to ensure it remains a shared resource 
 for global well-being. This work is free to all, provided attribution to Robert Castellanos is 
 maintained and any derivatives remain equally open under the same license. No entity may 
