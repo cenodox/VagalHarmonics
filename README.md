@@ -1,4 +1,4 @@
-# VagalHarmonics
+# Vagal Harmonics
 EMF and nervous system remediation with scientific and philosophical principles belonging to a new technological paradigm.
 
 Vagal Harmonics — Core Founding Claim
