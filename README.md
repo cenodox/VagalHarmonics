@@ -1,7 +1,7 @@
 # Vagal Harmonics
 EMF and nervous system remediation with scientific and philosophical principles belonging to a new technological paradigm.
 
-Vagal Harmonics — Core Founding Claim
+## Vagal Harmonics — Core Founding Claim
 
 Date of Origin: August 10, 2025
 
