@@ -1,4 +1,4 @@
-#Vagal Harmonics — Founding Document  
+Vagal Harmonics — Founding Document  
 Founder:  
 Robert Castellanos  
 Date of Origin:  
