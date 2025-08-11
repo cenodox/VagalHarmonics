@@ -1,4 +1,4 @@
-Vagal Harmonics — Founding Document  
+#Vagal Harmonics — Founding Document  
 Founder:  
 Robert Castellanos  
 Date of Origin:  
@@ -44,3 +44,4 @@ Vagal Harmonics is released under a copyleft framework to ensure it remains a sh
 for global well-being. This work is free to all, provided attribution to Robert Castellanos is 
 maintained and any derivatives remain equally open under the same license. No entity may 
 privatize or restrict its practice, research, or dissemination.   
+
