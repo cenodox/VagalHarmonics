@@ -2,6 +2,7 @@
 EMF and nervous system remediation with scientific and philosophical principles pointing toward a new technological paradigm.
 
 Vagal Harmonics — Core Founding Claim
+
 Date of Origin: August 10, 2025
 
 Founded by Robert Castellanos, Vagal Harmonics is an open-science, copyleft system combining electromagnetic field (EMF) remediation across human environments—homes, workplaces, and schools. It pairs this with low-intensity pulsed ultrasound (LIPUS) vagal stimulation to harmonize nervous system function and promote autonomic balance.
