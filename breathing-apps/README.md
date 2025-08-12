@@ -18,3 +18,10 @@ Consult with healthcare providers if you have respiratory or cardiovascular cond
 
 License
 The app source code is licensed under the GNU GPLv3 license to ensure continued open development and sharing.
+
+Link
+Hatha Kumbhaka Breathing App:
+https://claude.ai/public/artifacts/6c2a9609-8ba9-493b-89a0-9077d06ae4b9
+
+Sahita Kumbhaka Breathing Program:
+https://claude.ai/public/artifacts/d7e77a2e-9a66-4eab-97b9-a9885cfc66ff
